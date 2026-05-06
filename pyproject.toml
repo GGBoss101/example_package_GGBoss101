@@ -7,7 +7,7 @@ name = "example_package_GGBoss101"
 version = "0.0.1"
 
 authors = [
-    { name = "Dhairya", email = "redacted@gmail.com" }
+    { name = "Dhairya", email = "dhairyachopra2005@gmail.com" }
 ]
 
 description = "An example package"
